@@ -1,0 +1,45 @@
+body {
+  width: 100%;
+  background-image: url(/Users/JefferyMuter/Downloads/vipart.jpg);
+}
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  color: green;
+}
+.menu {
+  overflow: hidden;
+  background-color: 0, 0, 255;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
+.menu a {
+  float: right;
+  padding: 16px 14px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+#intro {
+  background-color: purple;
+  text-align: center;
+  padding: 30px;
+  margin-left: 200px;
+  margin-right: 200px;
+  line-height: 35px;
+  left: 0;
+}
+#enroll {
+  float: left;
+  margin: 80px;
+  padding: 30px;
+  background-color: darkcyan;
+}
+#fund {
+  float: right;
+  margin: 80px;
+  padding: 30px;
+  background-color: darkcyan;
+}
